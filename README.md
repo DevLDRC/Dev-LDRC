@@ -1,6 +1,6 @@
 # Olá, me chamo Lucas 👋
 
-### Seja Bem-Vindo(a) ao meu perfil. Estou no mundo da programação desde 2021 e até hoje gosto muito de estudar sobre e melhorar cada dia mais minhas habilidades como software developer. 🚀 ⚡ 👨‍💻
+### Seja Bem-Vindo(a) ao meu perfil! Estou no mundo da programação desde 2021 e até hoje gosto muito de estudar sobre e melhorar cada dia mais minhas habilidades como software developer. 🚀 ⚡ 👨‍💻
 
 <!-- ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-30741a?style=for-the-badge&logo=python&logoColor=white)
@@ -50,5 +50,5 @@
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-david-rabelo-cruz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrabelocruz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-ldrc.com.br/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ldrc.contato@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev.ldrc.com.br/)
