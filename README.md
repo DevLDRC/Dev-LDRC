@@ -32,17 +32,17 @@
 
 ## 📊 Estatísticas GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LDRC&layout=donut-vertical&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15" alt="Top Languages" height="375">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLDRC&layout=donut-vertical&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15" alt="Top Languages" height="375">
 
 <!-- <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LDRC&layout=donut-vertical&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15" alt="Top Languages" height="320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dev-LDRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLDRC&layout=donut-vertical&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15" alt="Top Languages" height="320">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevLDRC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=30363D&border_radius=15" alt="GitHub Stats">
 </div> -->
 
 <!-- ## 🚀 Principais Projetos
-- [Nome do Projeto 1](https://github.com/Dev-LDRC/projeto1) - Breve descrição do projeto.
-- [Nome do Projeto 2](https://github.com/Dev-LDRC/projeto2) - Breve descrição do projeto.
-- [Nome do Projeto 3](https://github.com/Dev-LDRC/projeto3) - Breve descrição do projeto.
+- [Nome do Projeto 1](https://github.com/DevLDRC/projeto1) - Breve descrição do projeto.
+- [Nome do Projeto 2](https://github.com/DevLDRC/projeto2) - Breve descrição do projeto.
+- [Nome do Projeto 3](https://github.com/DevLDRC/projeto3) - Breve descrição do projeto.
 
 ## 🎓 Educação
 - **Curso/Formação** - Instituição - Período
