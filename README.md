@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) -->
 
-## 📊 Estatísticas GitHub
+# 📊 Estatísticas GitHub
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLDRC&layout=donut-vertical&bg_color=010409&text_color=ffffff&title_color=ffffff&border_color=5ef2d7&border_radius=15" alt="Top Languages" height="375">
 
@@ -48,7 +48,7 @@
 - **Curso/Formação** - Instituição - Período
 - **Curso/Formação** - Instituição - Período -->
 
-## 📫 Como me encontrar
+# 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-david-rabelo-cruz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ldrc.contato@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev.ldrc.com.br/)
